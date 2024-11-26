@@ -4,4 +4,6 @@ Esto lo realizaré a través de Platzi y mi plan es, conseguir ser fullstack par
 
 Master 1
 
+Master 2
+
 Probando este nuevo punto de cambio de versiones previas
