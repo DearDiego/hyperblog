@@ -2,6 +2,8 @@ Este es el inicio de mi historia estudiando programación de una forma mas organ
 
 Esto lo realizaré a través de Platzi y mi plan es, conseguir ser fullstack para posteriormente especializarme en IA, RPA y Manejo de DATOS
 
+Experimento 1
+
 Master 1
 
 Master 2
